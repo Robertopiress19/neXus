@@ -1,0 +1,8 @@
+{
+  "name": "Agente de Suporte Interativo INOVAAPPS",
+  "description": "Um protótipo de agente de suporte inteligente que responde a perguntas com base em uma base de conhecimento e registra chamados automaticamente. Desenvolvido para o Desafio INOVAAPPS 2025.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
